@@ -8,7 +8,7 @@ A full-stack URL shortener application built with React (frontend) and Node.js/E
 ![URL creation](<Screenshot 2025-09-20 at 16.18.56.png>)
 ![Dashboard](<Screenshot 2025-09-20 at 16.19.15.png>)
 ![URL search](<Screenshot 2025-09-20 at 16.19.26.png>)
-![URL edit](<Screenshot 2025-09-20 at 16.19.26-1.png>)
+![URL edit](<Screenshot 2025-09-21 at 19.06.59.png>)
 ![URL statistics](<Screenshot 2025-09-20 at 16.19.57.png>)
 
 ## 📋 Features
