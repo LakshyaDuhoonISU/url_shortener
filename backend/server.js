@@ -2,14 +2,10 @@ const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
 const dotenv = require('dotenv');
-
-// Import routes
 const authRoutes = require('./routes/auth');
 const urlRoutes = require('./routes/url');
 
-// Load environment variables
 dotenv.config();
-
 const app = express();
 
 // Middleware
